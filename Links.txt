@@ -1,0 +1,5 @@
+https://www.mongodb.com/try/download/community-edition
+https://www.mongodb.com/try/download/database-tools
+
+https://atlas-education.s3.amazonaws.com/sample_airbnb.archive
+mongorestore --archive=sample_airbnb.archive
